@@ -2,8 +2,7 @@
 
 Continued Apache Iceberg from the previous event,  An Introduction to Data Lakehouses by Will Martin (Dremio).
 
-
-https://catalog.us-east-1.prod.workshops.aws/workshops/b6289fb6-4636-4843-b8c1-f782b4871783/en-US/1-preparation
+[Apache Iceberg on AWS Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/b6289fb6-4636-4843-b8c1-f782b4871783)
 
 
 [Open Table Formats on AWS](https://catalog.us-east-1.prod.workshops.aws/workshops/520e974c-0fee-4585-9601-9af535d4d908/en-US/3-basiclab/3-3-athena)
