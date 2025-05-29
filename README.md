@@ -11,3 +11,7 @@ Continued Apache Iceberg from the previous event,  An Introduction to Data Lakeh
 
 https://aws.amazon.com/blogs/big-data/scalable-analytics-and-centralized-governance-for-apache-iceberg-tables-using-amazon-s3-tables-and-amazon-redshift/
 
+
+
+## Resources:
+
