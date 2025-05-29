@@ -15,3 +15,10 @@ https://aws.amazon.com/blogs/big-data/scalable-analytics-and-centralized-governa
 
 ## Resources:
 
+Apache Iceberg: The Definitive Guide: Data Lakehouse Functionality, Performance, and Scalability on the Data Lake Paperback – 11 Jun. 2024
+by Tomer Shiran (Author), Jason Hughes (Author), Alex Merced 
+
+https://hello.dremio.com/wp-apache-iceberg-the-definitive-guide-reg.html
+
+https://docs.aws.amazon.com/pdfs/prescriptive-guidance/latest/apache-iceberg-on-aws/apache-iceberg-on-aws.pdf.  129 
+
