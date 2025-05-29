@@ -1,4 +1,4 @@
-# Apache Iceberg Workshop
+# Apache Iceberg Workshops
 
 Continued Apache Iceberg from the previous event,  An Introduction to Data Lakehouses by Will Martin (Dremio).
 
