@@ -14,10 +14,8 @@ Continued Apache Iceberg from the previous event,  An Introduction to Data Lakeh
 
 ## Resources:
 
-Apache Iceberg: The Definitive Guide: Data Lakehouse Functionality, Performance, and Scalability on the Data Lake 2024
-by Tomer Shiran, Jason Hughes, Alex Merced 
+[Apache Iceberg: The Definitive Guide: Data Lakehouse Functionality, Performance, and Scalability on the Data Lake 2024
+by Tomer Shiran, Jason Hughes, Alex Merced](https://hello.dremio.com/wp-apache-iceberg-the-definitive-guide-reg.html)
 
-https://hello.dremio.com/wp-apache-iceberg-the-definitive-guide-reg.html
-
-https://docs.aws.amazon.com/pdfs/prescriptive-guidance/latest/apache-iceberg-on-aws/apache-iceberg-on-aws.pdf  129 
+[Using Apache Iceberg on AWS](https://docs.aws.amazon.com/pdfs/prescriptive-guidance/latest/apache-iceberg-on-aws/apache-iceberg-on-aws.pdf)
 
