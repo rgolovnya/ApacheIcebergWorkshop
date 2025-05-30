@@ -1,6 +1,6 @@
-# Apache Iceberg Workshop
+# Apache Iceberg on AWS Workshops
 
-Continued Apache Iceberg from the previous event,  An Introduction to Data Lakehouses by Will Martin (Dremio).
+Continued Apache Iceberg exploration from the previous event,  An Introduction to Data Lakehouses by Will Martin (Dremio).
 
 - [Apache Iceberg on AWS Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/b6289fb6-4636-4843-b8c1-f782b4871783/en-US/)
 
@@ -19,4 +19,4 @@ by Tomer Shiran, Jason Hughes, Alex Merced](https://hello.dremio.com/wp-apache-i
 
 [Using Apache Iceberg on AWS](https://docs.aws.amazon.com/pdfs/prescriptive-guidance/latest/apache-iceberg-on-aws/apache-iceberg-on-aws.pdf)
 
---------
+
